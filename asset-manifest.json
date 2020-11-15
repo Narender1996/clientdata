@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/addusers-live/static/css/main.932c2beb.chunk.css",
+    "main.js": "/addusers-live/static/js/main.2d18080e.chunk.js",
+    "main.js.map": "/addusers-live/static/js/main.2d18080e.chunk.js.map",
+    "runtime-main.js": "/addusers-live/static/js/runtime-main.6776647b.js",
+    "runtime-main.js.map": "/addusers-live/static/js/runtime-main.6776647b.js.map",
+    "static/css/2.6414bb7b.chunk.css": "/addusers-live/static/css/2.6414bb7b.chunk.css",
+    "static/js/2.372b05ee.chunk.js": "/addusers-live/static/js/2.372b05ee.chunk.js",
+    "static/js/2.372b05ee.chunk.js.map": "/addusers-live/static/js/2.372b05ee.chunk.js.map",
+    "index.html": "/addusers-live/index.html",
+    "precache-manifest.c9a31eb96ed81ca4a0a7b6d3ba9c8965.js": "/addusers-live/precache-manifest.c9a31eb96ed81ca4a0a7b6d3ba9c8965.js",
+    "service-worker.js": "/addusers-live/service-worker.js",
+    "static/css/2.6414bb7b.chunk.css.map": "/addusers-live/static/css/2.6414bb7b.chunk.css.map",
+    "static/css/main.932c2beb.chunk.css.map": "/addusers-live/static/css/main.932c2beb.chunk.css.map",
+    "static/js/2.372b05ee.chunk.js.LICENSE.txt": "/addusers-live/static/js/2.372b05ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6776647b.js",
+    "static/css/2.6414bb7b.chunk.css",
+    "static/js/2.372b05ee.chunk.js",
+    "static/css/main.932c2beb.chunk.css",
+    "static/js/main.2d18080e.chunk.js"
+  ]
+}
